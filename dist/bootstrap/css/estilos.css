@@ -1,1 +1,7 @@
-h1 {color: yellowgreen;}
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+
+
+h1 {color: yellowgreen;
+  font-size: 2em;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
