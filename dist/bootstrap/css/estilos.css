@@ -5,3 +5,8 @@ h1 {color: yellowgreen;
   font-size: 2em;
   font-family: 'Mochiy Pop One', sans-serif;
 }
+
+*{
+    padding-left: 1%;
+    padding-right: 1%;
+}
